@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="company_logo">company logo</string>
+    <string name="error">Cannot load about page at the moment.\nKindly try later or check your internet connection</string>
+    <string name="nathany_attipoe">Nathany Attipoe</string>
+    <string name="profile">profile photo</string>
+    <string name="country_1_s">Country : %1$s</string>
+    <string name="track_1_s">Track : %1$s</string>
+    <string name="email_1_s">Email : %1$s</string>
+    <string name="phone_number_1_s">Phone Number : %1$s</string>
+    <string name="slack_username_1_s">Slack Username : %1$s</string>
+</resources>
